@@ -1,0 +1,19 @@
+{
+  "name": "konstantin-dmitrienko/email-validator",
+  "description": "Validate the list of email addresses",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Konstantin Dmitrienko",
+      "email": "kos220490@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "KonstantinDmitrienko\\EmailValidator\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
